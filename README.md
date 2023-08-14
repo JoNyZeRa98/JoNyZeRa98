@@ -21,7 +21,7 @@
 
 - 💬 If you have any question, **just ask**.
 
-- 📫 You can contact me on discord: jonyzera#2168 or through my email: jony98@hotmail.it for anything.
+- 📫 You can contact me on discord: jonyzeratv or through my email: jony98@hotmail.it for anything.
 
 
 - ![](https://img.shields.io/badge/💻NodeJS-💻React-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)

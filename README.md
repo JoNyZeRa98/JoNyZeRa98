@@ -7,7 +7,7 @@
     <a href="jony98@hotmail.it">Email</a>
 </p>
 <p align="center">
-  <h4 align="center">Web/App Developer from Italy</h4>
+  <h4 align="center">Lua and FiveM/Web App Developer from Italy</h4>
 </p>
 
 <p align="center"> 
@@ -15,7 +15,7 @@
 </p>
 
 
-- 💻 I’m currently working as a freelance web/app full stack developer.
+- 💻 I’m currently working as a freelance lua fivem/redm and web app full stack developer.
 
 - 🌱 I’m always trying to learn new methods and functionalities to improve my code.
 

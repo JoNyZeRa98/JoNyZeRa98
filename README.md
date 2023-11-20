@@ -1,31 +1,23 @@
-<p align="center">
-  <h3 align="center">Hi 👋, I'm JoNyZeRa98 aka Giancarlo</h3>
-</p>
-<p align="center">
-    <a href="">My Portfolio</a>
-    ·
-    <a href="jony98@hotmail.it">Email</a>
-</p>
-<p align="center">
-  <h4 align="center">Lua and FiveM/Web App Developer from Italy</h4>
-</p>
 
-<p align="center"> 
-  <img align="center" src="https://komarev.com/ghpvc/?username=JoNyZeRa98b&color=blue&style=flat-square" alt="JoNyZeRa98 profile views" />
-</p>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/pqXAbDBmVM) 
 
+# 💻 Tech Stack:
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-- 💻 I’m currently working as a freelance lua fivem/redm and web app full stack developer.
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=JoNyZeRa98&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=JoNyZeRa98&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JoNyZeRa98&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-- 🌱 I’m always trying to learn new methods and functionalities to improve my code.
+---
+![](https://komarev.com/ghpvc/?username=JoNyZeRa98b&color=blue&style=flat-square)
 
-- 💬 If you have any question, **just ask**.
-
-- 📫 You can contact me on discord: jonyzeratv or through my email: jony98@hotmail.it for anything.
-
-
-- ![](https://img.shields.io/badge/💻NodeJS-💻React-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-- ![](https://img.shields.io/badge/💻CSS/HTM/JS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-- ![](https://img.shields.io/badge/💻Python-💻Lua-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-- ![](https://img.shields.io/badge/💻SqlDB-💻Firebase-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=FF0000)
-
+## 💰 If you appreciate what i do, you can support me with a donation.
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/jonyzera) 
